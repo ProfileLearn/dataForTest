@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "etiqueta": "Instituto",
+      "items": "Escuela Tecson",
+      "clases": "copiable educacion etiqueta instituto"
+    },
+    {
+      "etiqueta": "Titulo",
+      "items": "Operación en Grabación y Post-Producción de Audio",
+      "clases": "copiable educacion etiqueta titulo"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Post-Producción de audio para Cine y Televisión",
+        "Software de audio y edición: Pro Tools HD, Sonar X",
+        "Cableado y armado de equipamiento de sonido para eventos.",
+        "Manejo de Consolas Analógicas y Digitales, interfaces, controladores y superficies de control MIDI.",
+        "Manejo de librerías de Sonido e instrumentos virtuales."
+      ],
+      "clases": "copiable educacion descripcion items"
+    }
+  ],
+
+  [
+    {
+      "etiqueta": "Instituto",
+      "items": "Educacion IT",
+      "clases": "copiable educacion etiqueta instituto"
+    },
+    {
+      "etiqueta": "Título",
+      "items": "Curso de Javascript Desarrollador Avanzado Front-End",
+      "clases": "copiable educacion etiqueta titulo"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Desarrollo de aplicaciones web:",
+        "DOM, ES6, Eventos, Formularios, AJAX, SPA y REST, Drop API, Promises, POO, Patrones de Diseño, Persistencia y Optimización, Node.js y NPM."
+      ],
+      "clases": "copiable educacion descripcion items"
+    }
+  ],
+
+  [
+    {
+      "etiqueta": "Instituto",
+      "items": "Educación IT",
+      "clases": "copiable educacion etiqueta instituto"
+    },
+    {
+      "etiqueta": "Título",
+      "items": "Seminario De Programación Web",
+      "clases": "copiable educacion etiqueta titulo"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos."
+      ],
+      "clases": "copiable educacion descripcion items"
+    }
+  ],
+
+  [
+    {
+      "etiqueta": "Instituto",
+      "items": "FreeCodeCamp",
+      "clases": "copiable educacion etiqueta instituto"
+    },
+    {
+      "etiqueta": "Título",
+      "items": "Responsive Web Design",
+      "clases": "copiable educacion etiqueta titulo"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": ["HTML5, CSS, Sass Flexbox, GRID, Bootstrap,jQuery, React."],
+      "clases": "copiable educacion descripcion items"
+    }
+  ],
+
+  [
+    {
+      "etiqueta": "Conocimientos y Habilidades",
+      "items": [
+        "Desarrollo Web.",
+        "Lenguajes: Javascript y ES6, Python.",
+        "HTML5 y CSS3.",
+        "Bootstrap4",
+        "React",
+        "GIT",
+        "Word, Excel: Nivel Intermedio.",
+        "Registro de conducir: A.3 – B.2"
+      ],
+      "clases": "copiable educacion descripcion items"
+    }
+  ],
+  [
+    {
+      "etiqueta": "Empresa",
+      "items": "Directv Argentina S.A.",
+      "clases": "copiable laboral etiqueta empresa"
+    },
+    {
+      "etiqueta": "Rubro",
+      "items": "Entretenimiento",
+      "clases": "copiable laboral etiqueta rubro"
+    },
+    {
+      "etiqueta": "Puesto",
+      "items": "Call Center / Customer Service:",
+      "clases": "copiable laboral etiqueta puesto"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Sector de retención de señales y paquetes de programación.",
+        "Sector de ventas de programación de señales adicionales para servicio de televisión satelital.",
+        "Sector de cobranzas."
+      ],
+      "clases": "copiable laboral descripcion items"
+    },
+    {
+      "etiqueta": "Puesto",
+      "items": "Mail y Chat / Customer Service:",
+      "clases": "copiable laboral etiqueta puesto"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": ["Atención a clientes a través de plataforma de Chat y Mail."],
+      "clases": "copiable laboral descripcion items"
+    }
+  ],
+  [
+    {
+      "etiqueta": "Empresa",
+      "items": "Atento S.A.",
+      "clases": "copiable laboral etiqueta empresa"
+    },
+    {
+      "etiqueta": "Rubro",
+      "items": "Telecomunicaciones",
+      "clases": "copiable laboral etiqueta rubro"
+    },
+    {
+      "etiqueta": "Puesto",
+      "items": "Back Office:",
+      "clases": "copiable laboral etiqueta puesto"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Back Office administrativo de ventas de Internet de banda ancha, “Speedy”.",
+        "Control de calidad, atención de reclamos y soporte técnico.",
+        "Manejo administrativo y backups de grabaciones telefónicas y monitoreos."
+      ],
+      "clases": "copiable laboral descripcion items"
+    }
+  ],
+  [
+    {
+      "etiqueta": "Empresa",
+      "items": "Sofitel Recoleta",
+      "clases": "copiable laboral etiqueta empresa"
+    },
+    {
+      "etiqueta": "Rubro",
+      "items": "Hotelería y Turismo",
+      "clases": "copiable laboral etiqueta rubro"
+    },
+    {
+      "etiqueta": "Puesto",
+      "items": "Camarero de Eventos",
+      "clases": "copiable laboral etiqueta puesto"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Camarero en el sector de Banquetes, gerencia de alimentos y bebidas.",
+        "Reposición de mercadería.",
+        "Servicio de mesa y cócteles.",
+        "Armado y seteo de salón para eventos."
+      ],
+      "clases": "copiable laboral descripcion items"
+    }
+  ],
+  [
+    {
+      "etiqueta": "Empresa",
+      "items": "Freelance",
+      "clases": "copiable laboral etiqueta empresa"
+    },
+    {
+      "etiqueta": "Rubro",
+      "items": "Eventos Corporativos",
+      "clases": "copiable laboral etiqueta rubro"
+    },
+    {
+      "etiqueta": "Puesto",
+      "items": "Operador Audiovisual",
+      "clases": "copiable laboral etiqueta puesto"
+    },
+    {
+      "etiqueta": "Descripción",
+      "items": [
+        "Operador de Audio y Video en eventos y conferencias:",
+        "Operación de consolas y proyectores, micrófonos cableados e inalámbricos.",
+        "Monitoreo y efectos de sonido.",
+        "Musicalización",
+        "Cableado y armado de equipamiento de sonido y para eventos."
+      ],
+      "clases": "copiable laboral descripcion items"
+    }
+  ]
+]
